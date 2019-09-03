@@ -14,6 +14,7 @@
 		5B166AA6231BD9B300BEFD5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5B166AA4231BD9B300BEFD5D /* LaunchScreen.storyboard */; };
 		5B166AAE231BF45900BEFD5D /* QuestionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B166AAD231BF45900BEFD5D /* QuestionViewController.swift */; };
 		5B166AB0231BF47300BEFD5D /* ResultsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B166AAF231BF47300BEFD5D /* ResultsViewController.swift */; };
+		5B166AB2231BF76800BEFD5D /* questionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B166AB1231BF76800BEFD5D /* questionData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5B166AA7231BD9B300BEFD5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B166AAD231BF45900BEFD5D /* QuestionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionViewController.swift; sourceTree = "<group>"; };
 		5B166AAF231BF47300BEFD5D /* ResultsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsViewController.swift; sourceTree = "<group>"; };
+		5B166AB1231BF76800BEFD5D /* questionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = questionData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				5B166A9B231BD9B200BEFD5D /* AppDelegate.swift */,
+				5B166AB1231BF76800BEFD5D /* questionData.swift */,
 				5B166A9D231BD9B200BEFD5D /* IntroductionViewController.swift */,
 				5B166AAD231BF45900BEFD5D /* QuestionViewController.swift */,
 				5B166AAF231BF47300BEFD5D /* ResultsViewController.swift */,
@@ -143,6 +146,7 @@
 			files = (
 				5B166A9E231BD9B200BEFD5D /* IntroductionViewController.swift in Sources */,
 				5B166A9C231BD9B200BEFD5D /* AppDelegate.swift in Sources */,
+				5B166AB2231BF76800BEFD5D /* questionData.swift in Sources */,
 				5B166AAE231BF45900BEFD5D /* QuestionViewController.swift in Sources */,
 				5B166AB0231BF47300BEFD5D /* ResultsViewController.swift in Sources */,
 			);
